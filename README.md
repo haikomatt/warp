@@ -7,3 +7,8 @@ Artifacts for https://github.com/warpdotdev/warp/pull/10143.
 - `after_anchor_navigation.png`: after state.
 
 Generated from a temporary local-only integration recording test. Not part of the PR diff.
+
+## Manual ToC anchor verification screenshots
+
+- `warp-fix-markdown-toc-1.png`: ToC fixture before navigating, showing rendered fragment links.
+- `warp-fix-markdown-toc-2.png`: After navigation, showing the viewer scrolled to normalized and duplicate heading targets.
